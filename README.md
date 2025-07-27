@@ -57,7 +57,7 @@ Before running this application, make sure you have the following installed:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/group-trip-sync.git
+git clone https://github.com/dheerajraqesh/group-trip-sync.git
 cd group-trip-sync
 ```
 
