@@ -216,20 +216,4 @@ A comprehensive form for creating new trip itineraries with:
 - User authentication flow needs completion
 - Real-time notifications need implementation
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👥 Authors
-
-- **Dheeraj R** - *Initial work* - [GitHub](https://github.com/dheerajraqesh)
-
-## 🙏 Acknowledgments
-
-- Thanks to all contributors who help make this project better
-- Inspired by the need for better group travel coordination
-- Built with love for the travel community
-
----
-
 **Happy Traveling! 🎒✈️**
